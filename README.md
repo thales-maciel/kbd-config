@@ -1,4 +1,4 @@
-# Keyboard Settings
+# Keyboard Config
 
 This is my journey to develop a layout that works specifically for me.
 
